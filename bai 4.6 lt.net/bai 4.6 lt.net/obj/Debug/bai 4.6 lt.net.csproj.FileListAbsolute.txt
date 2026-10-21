@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\obj\Debug\bai 4.6 lt.net.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\obj\Debug\QuanLySinhVien.Form1.resources
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\obj\Debug\bai_4._6_lt.net.Properties.Resources.resources
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\obj\Debug\bai 4.6 lt.net.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\obj\Debug\bai 4.6 lt.net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\bin\Debug\bai 4.6 lt.net.exe.config
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\bin\Debug\bai 4.6 lt.net.exe
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\bin\Debug\bai 4.6 lt.net.pdb
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\obj\Debug\bai 4.6 lt.net.exe
+C:\Users\Admin\source\repos\bai 4.6 lt.net\bai 4.6 lt.net\obj\Debug\bai 4.6 lt.net.pdb
